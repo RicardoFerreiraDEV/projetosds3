@@ -1,6 +1,6 @@
 import { Seller } from "./seller"
 
-export type sale = {
+export type Sale = {
     id: number;
     visited: number;
     deals: number;
